@@ -12,23 +12,18 @@ A responsive and interactive product page built with [mention technologies, e.g.
 - [Contact](#contact)
 
 ## Project Overview
-This project is a fully functional **product page** designed to display a single product with essential information including product images, description, price, features, reviews, and a call-to-action button for purchasing the product.
+This project is a fully functional **product page** designed to display a multiple products with essential information including product images, price, and name. Users are able to edit the products: name, price and image and delete products.
 
 ### Key Features:
 - Product images (multiple views)
 - Clear product price and description
-- Interactive **Add to Cart** button
-- Customer reviews and ratings
-- Related product suggestions
 - Responsive design for mobile and desktop views
 
 ## Features
 - **Responsive Layout**: The page adjusts beautifully to various screen sizes.
-- **Dynamic Pricing**: Update prices easily based on promotion or sale.
-- **Product Reviews**: Show customer reviews and ratings to build trust.
-- **Related Products**: Display similar or complementary items.
-- **Interactive CTA Buttons**: Buttons for adding to cart, buying now, etc.
-- **Easy to Customize**: Customize the page content with minimal effort.
+- **Add Button**: Button to add products to page.
+- **Edit Products**: Button to Edit products name, price or image.
+- **Delete Products**: Button to delete product.
 
 ## Installation
 
